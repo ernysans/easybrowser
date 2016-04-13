@@ -1,0 +1,43 @@
+{
+  "name": "easybrowser",
+  "version": "0.0.1",
+  "description": "Detect browser and implement helpful classes.",
+  "main": "easyBrowser.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernysans/easybrowser.git"
+  },
+  "keywords": [
+    "easybrowser",
+    "erny",
+    "sans",
+    "js",
+    "javascript",
+    "window",
+    "responsive",
+    "images",
+    "load",
+    "bootstrap",
+    "retina"
+  ],
+  "author": "Erny Sans (http://erny.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernysans/easybrowser/issues"
+  },
+  "homepage": "https://github.com/ernysans/easybrowser#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.7",
+    "gulp-umd": "^0.2.0"
+  },
+  "dependencies": {
+    "lend": "*",
+    "occurrence": "*"
+  }
+}
